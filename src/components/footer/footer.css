@@ -1,0 +1,9 @@
+.footer {
+  background-color: #d9534f;
+  -webkit-box-shadow: 0 -14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 -14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  color: #ddd;
+  font-size: 14px;
+  height: 50px;
+  padding: 14px 0;
+}
